@@ -4,7 +4,7 @@ All the guides were tested on a Windows 10 Lenovo laptop. Private details like I
 
 Guides:
 
-[No Internet Connection](no-internet-connection.md)
+- [Forgotten Password](forgotten-password.md)
 
 [Slow Computer](slow-computer.md)
 
