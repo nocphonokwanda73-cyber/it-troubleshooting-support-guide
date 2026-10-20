@@ -8,6 +8,8 @@ Guides:
 
 [Slow Computer](slow-computer.md)
 
+ [Forgotten Password](forgotten-password.md)
+
 Skills:
 
 - Troubleshooting methodoloy: testing step by step to find where a fault is.
