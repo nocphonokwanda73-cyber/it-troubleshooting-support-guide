@@ -6,7 +6,7 @@ A user forgets the password for their Windows account and cannot sign in. I recr
 ## Tools:
 Lenovo laptop running Windows 10 and Command Prompt (run as administrator).
 
-##Troubleshooting steps:
+## Troubleshooting steps:
 
 ### Step 1:  Open Command Prompt as administrator
 
