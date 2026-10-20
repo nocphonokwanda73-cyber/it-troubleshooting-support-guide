@@ -8,7 +8,7 @@ Guides:
 
 [Slow Computer](slow-computer.md)
 
- [Forgotten Password](forgotten-password.md)
+[Forgotten Password](forgotten-password.md)
 
 Skills:
 
