@@ -6,6 +6,8 @@ Guides:
 
 [No Internet Connection](no-internet-connection.md)
 
+[Slow Computer](slow-computer.md)
+
 Skills:
 
 - Troubleshooting methodoloy: testing step by step to find where a fault is.
